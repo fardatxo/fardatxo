@@ -2,7 +2,7 @@
 
 <div align="center">
   
-  ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=1000&color=FF0000&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Software+Engineer;Open+Source+Contributor)
+  ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=1000&color=FF0000&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Web+Application+Specialist;Laravel+%26+Vue+Expert)
   
 </div>
 
@@ -12,44 +12,49 @@
 > adri --info
 ```
 
-Desarrollador especializado en arquitecturas escalables y soluciones de alto rendimiento. Enfocado en escribir código limpio, mantenible y eficiente.
+Desarrollador Full Stack especializado en desarrollo web moderno. Enfocado en crear aplicaciones robustas con Laravel y Vue.js.
 
 ```javascript
 const adri = {
-    role: "Full Stack Developer",
+    role: "Full Stack Web Developer",
     code: {
-        languages: ["JavaScript", "TypeScript", "Python", "Java", "Go"],
-        frontend: ["React", "Next.js", "Vue.js", "Angular"],
-        backend: ["Node.js", "Express", "NestJS", "Django", "Spring"],
-        databases: ["PostgreSQL", "MongoDB", "Redis", "MySQL"],
-        cloud: ["AWS", "GCP", "Azure", "Docker", "Kubernetes"],
-        tools: ["Git", "Jenkins", "GitHub Actions", "Terraform"]
+        frontend: {
+            languages: ["JavaScript", "HTML", "CSS"],
+            frameworks: ["React", "Vue.js"],
+            stateManagement: ["Pinia"]
+        },
+        backend: {
+            languages: ["PHP", "Java"],
+            frameworks: ["Laravel"]
+        }
     },
-    architecture: ["Microservices", "Event-Driven", "Serverless", "DDD"],
-    currentFocus: "Distributed Systems & Cloud Architecture",
-    workingOn: "Building scalable backend solutions"
+    architecture: ["MVC", "RESTful APIs", "SPA"],
+    currentFocus: "Building modern web applications with Laravel & Vue",
+    workingOn: "Full stack projects with reactive frontends"
 };
 ```
 
-## Tech Arsenal
+## Tech Stack
 
 <div align="center">
 
+### Frontend
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat-square&logo=javascript)
-![TypeScript](https://img.shields.io/badge/-TypeScript-000000?style=flat-square&logo=typescript)
-![Python](https://img.shields.io/badge/-Python-000000?style=flat-square&logo=python)
-![Java](https://img.shields.io/badge/-Java-000000?style=flat-square&logo=openjdk)
-![Go](https://img.shields.io/badge/-Go-000000?style=flat-square&logo=go)
+![HTML5](https://img.shields.io/badge/-HTML5-000000?style=flat-square&logo=html5)
+![CSS3](https://img.shields.io/badge/-CSS3-000000?style=flat-square&logo=css3)
 ![React](https://img.shields.io/badge/-React-000000?style=flat-square&logo=react)
-![Node.js](https://img.shields.io/badge/-Node.js-000000?style=flat-square&logo=node.js)
-![Docker](https://img.shields.io/badge/-Docker-000000?style=flat-square&logo=docker)
-![Kubernetes](https://img.shields.io/badge/-Kubernetes-000000?style=flat-square&logo=kubernetes)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-000000?style=flat-square&logo=postgresql)
-![MongoDB](https://img.shields.io/badge/-MongoDB-000000?style=flat-square&logo=mongodb)
-![Redis](https://img.shields.io/badge/-Redis-000000?style=flat-square&logo=redis)
-![AWS](https://img.shields.io/badge/-AWS-000000?style=flat-square&logo=amazon-aws)
+![Vue.js](https://img.shields.io/badge/-Vue.js-000000?style=flat-square&logo=vue.js)
+![Pinia](https://img.shields.io/badge/-Pinia-000000?style=flat-square&logo=vue.js)
+
+### Backend
+![PHP](https://img.shields.io/badge/-PHP-000000?style=flat-square&logo=php)
+![Laravel](https://img.shields.io/badge/-Laravel-000000?style=flat-square&logo=laravel)
+![Java](https://img.shields.io/badge/-Java-000000?style=flat-square&logo=openjdk)
+
+### Tools
 ![Git](https://img.shields.io/badge/-Git-000000?style=flat-square&logo=git)
-![Linux](https://img.shields.io/badge/-Linux-000000?style=flat-square&logo=linux)
+![Composer](https://img.shields.io/badge/-Composer-000000?style=flat-square&logo=composer)
+![NPM](https://img.shields.io/badge/-NPM-000000?style=flat-square&logo=npm)
 
 </div>
 
@@ -77,7 +82,7 @@ const adri = {
   
 </div>
 
-## Featured Repositories
+## Featured Projects
 
 <div align="center">
 
@@ -86,17 +91,25 @@ const adri = {
 
 </div>
 
-## Recent Activity
+## Current Work
 
-```python
-# Últimas contribuciones
-def get_recent_work():
-    return [
-        "Optimized database queries reducing response time by 60%",
-        "Implemented CI/CD pipeline with automated testing",
-        "Architected microservices infrastructure on AWS",
-        "Contributed to open source projects"
-    ]
+```php
+<?php
+
+namespace Adri\Projects;
+
+class CurrentWork
+{
+    public function getFocus(): array
+    {
+        return [
+            'building' => 'Full stack applications with Laravel & Vue',
+            'learning' => 'Advanced Vue.js patterns and Laravel optimization',
+            'improving' => 'Code quality and best practices',
+            'exploring' => 'Modern frontend state management with Pinia'
+        ];
+    }
+}
 ```
 
 ## System Status
@@ -104,8 +117,8 @@ def get_recent_work():
 ```bash
 STATUS: Online
 AVAILABILITY: Open to collaborate
+STACK: Laravel + Vue.js + Pinia
 RESPONSE_TIME: < 24h
-COFFEE_LEVEL: High
 ```
 
 ## Contact
@@ -115,7 +128,7 @@ COFFEE_LEVEL: High
 [![GitHub](https://img.shields.io/badge/-GitHub-000000?style=flat-square&logo=github)](https://github.com/fardatxo)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000000?style=flat-square&logo=linkedin)](https://linkedin.com/in/tu-perfil)
 [![Email](https://img.shields.io/badge/-Email-000000?style=flat-square&logo=gmail)](mailto:tu-email@example.com)
-[![Website](https://img.shields.io/badge/-Website-000000?style=flat-square&logo=google-chrome)](https://tu-web.com)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=flat-square&logo=google-chrome)](https://tu-web.com)
 
 </div>
 
